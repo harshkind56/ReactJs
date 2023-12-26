@@ -1,0 +1,17 @@
+{
+  "name": "namaste-javascript",
+  "version": "1.0.0",
+  "description": "This is react by harsh",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "harsh",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
