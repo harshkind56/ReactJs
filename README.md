@@ -1,39 +1,23 @@
-import { useSelector } from "react-redux"
-import ItemList from "./itemList"
+# Namaste React
 
-const Cart = () => {
-    const cartItems = useSelector((store) => store.cart.items)
+# Food ordering app
+Header 
+- Logo
+- Nav items(Home,About,Cart)
+Body
+- Search
+- RestaurantContainer
+    - Restaurant cards
+Footer
+- Copyright
+- Links
+- Address
+- Contact
 
-    return (
-        <div className="text-center m-4 p-4">
-            <h1 className="text=2xl font-bold"> Cart </h1>
-            <div>
-                <ItemList items={cartItems} />
-            </div>
-        </div>
-    )
-}
-
-export default Cart;
-import { createSlice } from "@reduxjs/toolkit";
-
-const cartSlice = createSlice({
-  name: "cart",
-  initialState: {
-    items: ["burger"],
-  },
-  reducers: {
-    addItem: (state, action) => {
-      state.items.push(action.payload);
-    },
-    removeItem: (state, action) => {
-      state.items.pop();
-    },
-    clearCart: (state, action) => {
-      state.items.length = 0;
-    },
-  },
-});
-
-export const {addItem, removeItem, clearCart} = cartSlice.actions;
-export default cartSlice.reducer;
+# Redux toolkit
+- Install @reduxjs/toolkit and react-redux
+- Build our redux store
+- Connect store to app
+- Create cart slice
+- Dispatch action when add button is clicked
+- Selector to subscribe to store
