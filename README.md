@@ -24,5 +24,5 @@ Footer
 
   ## 🧢 Demo/Working Model
 
-![demo gif](https://github.com/muskanapp/Microsoft_IDC-WIT_hackathon_personal_assistant/blob/master/assets/app_demo.gif)
+![demo](https://github.com/harshkind56/ReactJs/blob/main/Foodapp.mp4)
 
