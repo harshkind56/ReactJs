@@ -22,7 +22,7 @@ Footer
 - Dispatch action when add button is clicked
 - Selector to subscribe to store
 
-  ## 🧢 Demo/Working Model
+  ## Demo/Working Model
 
-![demo](https://github.com/harshkind56/ReactJs/blob/main/Foodapp.mp4)
+![demo](https://github.com/harshkind56/ReactJs/assets/63567121/e2f72186-5ce9-4dff-881c-9ab1f9dd690c)
 
