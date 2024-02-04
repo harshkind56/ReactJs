@@ -21,3 +21,8 @@ Footer
 - Create cart slice
 - Dispatch action when add button is clicked
 - Selector to subscribe to store
+
+  ## 🧢 Demo/Working Model
+
+![demo gif](https://github.com/muskanapp/Microsoft_IDC-WIT_hackathon_personal_assistant/blob/master/assets/app_demo.gif)
+
