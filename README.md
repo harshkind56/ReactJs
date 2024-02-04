@@ -23,7 +23,7 @@ Footer
 - Selector to subscribe to store
 
   ## Demo/Working Model
-[![Watch the video](https://www.logodesign.net/logo/smoking-burger-with-lettuce-3624ld.png)](https://github.com/harshkind56/ReactJs/blob/main/Foodapp%20(1).mp4)
+  
+https://github.com/harshkind56/ReactJs/assets/63567121/067cd2e7-c293-4ea3-926c-976f9ba48aad
 
-[<img src="https://www.logodesign.net/logo/smoking-burger-with-lettuce-3624ld.png" width="600" height="300"
-/>](https://github.com/harshkind56/ReactJs/blob/main/Foodapp%20(1).mp4)
+
