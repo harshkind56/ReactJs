@@ -23,6 +23,7 @@ Footer
 - Selector to subscribe to store
 
   ## Demo/Working Model
+  https://food-delivery-app-cc285.web.app/ (Download Allow CORS extension and toggle ON to see the data from live swiggy APIs)
   
 https://github.com/harshkind56/ReactJs/assets/63567121/067cd2e7-c293-4ea3-926c-976f9ba48aad
 
